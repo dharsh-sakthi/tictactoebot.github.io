@@ -1,4 +1,4 @@
-# Tictactoebot
+# Tic tac toe Bot
 
 <img width="1118" alt="image" src="https://github.com/dharsh-sakthi/tictactoebot.github.io/assets/117792973/0872697f-04ce-41ea-a290-d6840cc7eee9">
 
